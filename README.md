@@ -101,7 +101,15 @@
 
 - What is an Experience Map?
 
-	```Answer:``` An experience map is a strategic tool for capturing and presenting key insights into the complex customer interactions that occur across experiences with a product, service, or ecosystem. Sometimes referred to as a Service Blueprint or Customer Journey Map.
+	```Answer:``` An experience map is a strategic tool for capturing and presenting key insights into the complex customer interactions that occur across experiences with a product, service, or ecosystem. 
+	
+- What is an Customer Journey Map?
+
+	```Answer:``` A customer journey map is a detailed visual document that captures the customer experience across touch points, including what the customer is doing, thinking, and/or feeling. Typically contain fewer process details, but more information about the customer experience. Can be experience-centric.
+	
+- What is a Service Blueprint?
+
+	```Answer:``` A service blueprint is a detailed visual document that captures the service delivery process across touch points, including the back stage and front stage of the service delivery. Service blueprints contain fewer experience details, but more information about the processes that deliver the service. Can be process-centric.
 
 - Explain: 
 
