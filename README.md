@@ -12,7 +12,7 @@
 	- Explain what problems this may present
 	- Explain alternative UI Controls which may solve this problem better
 	
-	```Anwser:``` the drop down will have far too many options to be easy to navigate for users (drop downs should only handle around 5 - 8 items). The solution can be improved greatly by using a Typeahead component to dynamically match searches for Car Models
+	```Answer:``` the drop down will have far too many options to be easy to navigate for users (drop downs should only handle around 5 - 8 items). The solution can be improved greatly by using a Typeahead component to dynamically match searches for Car Models
 
 - How do you work effectively and communicate with designers, developers, product owners and testers?
 
