@@ -20,7 +20,7 @@
 
 	```Answer:``` Edward Rolf Tufte (born March 14, 1942) is an American statistician and professor emeritus of political science, statistics, and computer science at Yale University. He is noted for his writings on information design and as a pioneer in the field of data visualization.
 
-	```Bonus:``` if 'Envisioning Information' or Chart Junk' is mentioned
+	```Bonus:``` if 'Envisioning Information' or 'Chart Junk' is mentioned
 
 - Who is Jakob Nielsen?
 
