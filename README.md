@@ -58,6 +58,11 @@
 	```Answer:``` Failure mapping, the process of applying historical data to create a user journey map showing how failures occur – instead of just focusing on the goal conversion. Failure maps observe cycles of ongoing failure patterns to prevent further failures where possible or to minimise their impact when they occur. 
 
 - What is User Centred Design?
+	- Why is Human Centred Design subtly different?
+	
+	```Answer:``` User Centred Design focusses on the user within the context of software. Modern Human Centred Design (although an old discipline) focusses on the touch points outside the main product that contribute to the experience with a focus on empathy and understanding of individual motivations. Ethnographic Research and Inclusive Design are key concepts from modern Human Centred Design approaches.
+	
+- What is Ethnographic Research?
 
 - What is Inclusive Design?
 
