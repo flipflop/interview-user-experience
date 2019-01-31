@@ -61,8 +61,6 @@
 
 - Please provide some examples of your experience dealing with user research and usability testing.
 
-- What is the difference between UI Design (Visual Design) and UX Design?
-
 - In Graphic Design, what is a Design Grid?
 
 - What is 'Mobile First' and how does it improve UX Design decisions?
