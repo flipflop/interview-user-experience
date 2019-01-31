@@ -49,6 +49,10 @@
 
 	```Answer:``` A heuristic technique; Ancient Greek: εὑρίσκω, "find" or "discover"), often called simply a heuristic, is any approach to problem solving, learning, or discovery that employs a practical method not guaranteed to be optimal or perfect, but sufficient for the immediate goals. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision. Examples of this method include using a rule of thumb, an educated guess, an intuitive judgment, stereotyping, profiling, or common sense.
 
+- Are you familiar with Hicks Law?
+
+	```Answer:``` Hick's law, or the Hick–Hyman law, named after British and American psychologists William Edmund Hick and Ray Hyman, describes the time it takes for a person to make a decision as a result of the possible choices he or she has: increasing the number of choices will increase the decision time logarithmically. The Hick–Hyman law assesses cognitive information capacity in choice reaction experiments. The amount of time taken to process a certain amount of bits in the Hick–Hyman law is known as the rate of gain of information.
+
 - What is User Centred Design?
 
 - What is Inclusive Design?
@@ -189,6 +193,8 @@
 	- Why is it so important to understand User Motivations and Frustrations?
 
 - What is a Design System?
+
+	```Answer:``` A Design System is a continually improving process for the manufacture and production of Digital Products. Design Systems comprise of documentation, standards, component libraries (e.g. GEL) and Living Style Guides.
 
 - What is a Global Experience Language (GEL)?
 	
