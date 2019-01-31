@@ -6,7 +6,7 @@
 
 - Describe a successful and rewarding project
 
-- UX and UI design, can you descrbibe what both are?
+- UX and UI design, can you describe what both are?
 
 - What are some of the emerging trends in UX Design right now?
 
