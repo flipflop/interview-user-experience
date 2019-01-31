@@ -2,7 +2,7 @@
 
 - What attracted you to become a User Experience Professional?
 
-- Decribe a difficult project
+- Describe a difficult project
 
 - Describe a successful and rewarding project
 
