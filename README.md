@@ -52,6 +52,10 @@
 - Are you familiar with Hicks Law?
 
 	```Answer:``` The time it takes to make a decision increases with the number and complexity of choices. Hick's law, or the Hick–Hyman law, named after British and American psychologists William Edmund Hick and Ray Hyman, describes the time it takes for a person to make a decision as a result of the possible choices he or she has: increasing the number of choices will increase the decision time logarithmically. The Hick–Hyman law assesses cognitive information capacity in choice reaction experiments. The amount of time taken to process a certain amount of bits in the Hick–Hyman law is known as the rate of gain of information.
+	
+- What is Failure Mapping?
+
+	```Answer:``` Failure mapping, the process of applying historical data to create a user journey map showing how failures occur – instead of just focusing on the goal conversion. Failure maps observe cycles of ongoing failure patterns to prevent further failures where possible or to minimise their impact when they occur. 
 
 - What is User Centred Design?
 
