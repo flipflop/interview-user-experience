@@ -30,7 +30,7 @@
 
 - Who is Jakob Nielsen?
 
-	```Answer:``` Jakob Nielsen (born 1957) is a famouse web usability consultant. He holds a Ph.D. in human–computer interaction from the Technical University of Denmark in Copenhagen.
+	```Answer:``` Jakob Nielsen (born 1957) is a famous web usability consultant. He holds a Ph.D. in human–computer interaction from the Technical University of Denmark in Copenhagen.
 
 	Nielsen has also defined the five quality components of his "Usability Goals", which are:
 
