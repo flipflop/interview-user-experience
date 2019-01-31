@@ -6,6 +6,12 @@
 
 - Describe a successful and rewarding project
 
+- UX and UI design, can you descrbibe what both are?
+
+- What are some of the emerging trends in UX Design right now?
+
+- If tasked to perform a UX evaluation or audit of a product, what would your process look like to accomplish this? Can you tell me about a project you did this for and what the outcome of the evaluation was?
+
 - Why did Google Make Page Speed an Important Ranking Factor for Websites?
 
 - Scenario: You arrive on a legacy Web Project, that utilises an address locator. The designer choose to make all the available options available in a drop down component.
@@ -45,9 +51,15 @@
 
 - What is User Centred Design?
 
+- What is Inclusive Design?
+
 - Why is Customer Feedback so important?
 
-- Why is research so important in User Experience?
+- What metrics and analytics tools do you use to evaluate your designs?
+
+- What are some of the biggest trends in the UX Design industry right now?
+
+- Please provide some examples of your experience dealing with user research and usability testing.
 
 - What is the difference between UI Design (Visual Design) and UX Design?
 
@@ -178,6 +190,8 @@
 - What is Empathy Mapping?
 	- Why is it so important to understand User Motivations and Frustrations?
 
+- What is a Design System?
+
 - What is a Global Experience Language (GEL)?
 	
 	```Answer:``` a constantly evolving and customer tested style guide of page components (Pattern Portfolio / Living Style Guide). The GEL provides consistency in communication and interaction patterns for UX professionals and Designers. It also provides a set of re-usable common components for an organisation, improving the quality of digital solutions (through consistency) and increases economies of scale by reducing design, development and testing effort.
@@ -200,5 +214,4 @@
 	- Who do you follow?
 
 - Wrap Up Question:
-	- If you were a dog, what type of dog would you be?
-		- Explain why?
+	- Sell me on the ROI of investing in UX design. How would it improve my bottom line?
