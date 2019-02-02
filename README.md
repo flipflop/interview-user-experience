@@ -74,6 +74,14 @@
 
 - Please provide some examples of your experience dealing with user research and usability testing.
 
+	```Bonus:``` if Quantitative and Qualitative Research is mentioned
+
+	```Bonus:``` if '3-dimensional framework is mentioned:
+
+1. Attitudinal vs. Behavioral
+2. Qualitative vs. Quantitative
+3. Context of Use
+
 - In Graphic Design, what is a Design Grid?
 
 - What is 'Mobile First' and how does it improve UX Design decisions?
