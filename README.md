@@ -81,6 +81,10 @@
 
 - What is Information Architecture?
 
+- What is Tree Testing or Tree Jacking?
+
+	```Answer:``` Tree testing is a usability technique for evaluating the findability of topics in a website. It’s also known as ‘reverse card sorting’ or ‘card-based classification’. Tree testing is done on a simplified text version of your site structure – without the influence of navigation aids and visual design.
+
 - What is a **Facetted Navigation**?
 	- When would you use it?
 
