@@ -70,7 +70,17 @@
 
 - What metrics and analytics tools do you use to evaluate your designs?
 
-- What are some of the biggest trends in the UX Design industry right now?
+- What are some of the emerging trends in the UX?
+
+```Bonus:``` if the following are mentioned:
+
+	- Design Systems
+	- Data Security and Ethical Design
+	- Research Ops
+	- Animation and Transitions
+	- Mult-modal interaction
+	- Anticipatory Design
+	- Inclusive Design
 
 - Please provide some examples of your experience dealing with user research and usability testing.
 
