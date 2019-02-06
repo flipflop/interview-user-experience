@@ -8,8 +8,6 @@
 
 - UX and UI design, can you describe what both are?
 
-- What are some of the emerging trends in UX Design right now?
-
 - If tasked to perform a UX evaluation or audit of a product, what would your process look like to accomplish this? Can you tell me about a project you did this for and what the outcome of the evaluation was?
 
 - Why did Google Make Page Speed an Important Ranking Factor for Websites?
